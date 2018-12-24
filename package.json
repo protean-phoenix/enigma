@@ -1,0 +1,22 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "description": "It's an enigma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protean-phoenix/enigma.git"
+  },
+  "keywords": [
+    "cryptography"
+  ],
+  "author": "Claudius King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/protean-phoenix/enigma/issues"
+  },
+  "homepage": "https://github.com/protean-phoenix/enigma#readme"
+}
